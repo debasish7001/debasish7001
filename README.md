@@ -1,5 +1,5 @@
 # Hello, I am Debasish Halder
-An aspiring Data Scientist currently pursuing Master of Operational Research from University of Delhi.
+## An aspiring Data Scientist currently pursuing Master of Operational Research from University of Delhi.
 
 Skills: Python,Excel
 
